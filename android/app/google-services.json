@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798204071430",
+    "project_id": "fb-miner-app",
+    "storage_bucket": "fb-miner-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798204071430:android:512507368b21c182093d87",
+        "android_client_info": {
+          "package_name": "com.example.firebase_miner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy3P8PKAIax_4xo5kRkq3j5BYrOa38VNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
